@@ -1,0 +1,37 @@
+<annotation>
+	<folder></folder>
+	<filename>PMSEP221313741_DCLoad_SelfieImage_1_1663836015943_png.rf.5e8bc4339e8169fc2adc0be63ebca6ee.jpg</filename>
+	<path>PMSEP221313741_DCLoad_SelfieImage_1_1663836015943_png.rf.5e8bc4339e8169fc2adc0be63ebca6ee.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NoClampMeter_Display</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>20</xmin>
+			<xmax>413</xmax>
+			<ymin>161</ymin>
+			<ymax>368</ymax>
+		</bndbox>
+		<polygon>
+			<x1>19.130434782608745</x1>
+			<y1>160.43478260869568</y1>
+			<x2>412.1739130434783</x2>
+			<y2>181.30434782608697</y2>
+			<x3>388.69565217391306</x3>
+			<y3>366.5217391304348</y3>
+			<x4>32.17391304347831</x4>
+			<y4>340.4347826086957</y4>
+		</polygon>
+	</object>
+</annotation>
